@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54D695D8-3FC1-47A3-8D60-959ECE458279}") = "ETL", "ETL\ETL.ssmsasproj", "{DF2E55B7-8F12-4FC5-BDA3-259B66ABFE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED65AD4-1CC6-450A-A335-E459E95EA7DA}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5FFCCF-64B5-48EF-A04B-5118471C0AEE}
+	EndGlobalSection
+EndGlobal
